@@ -7,4 +7,5 @@ Titik 0 bumi terletak di Greenwich, London.
 Titik koordinat 0,0 terletak di Samudra Atlantik. 
 
 By Yunita Nurjanah
+Kelas: D4 Teknik Informatika 3B
 NPM 1144021
